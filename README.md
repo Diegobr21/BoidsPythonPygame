@@ -1,4 +1,4 @@
-# BoidsPythonTkinter
+# BoidsPythonPygame
 
 A simple Python simulation of boids, bird-like agents that exhibit flocking behavior, using Tkinter for visualization. The simulation allows you to adjust parameters to modify how the boids behave and how they interact with the mouse pointer.
 
@@ -35,7 +35,7 @@ To run the simulation, ensure you have Python 3.x installed. Then, clone the rep
 
 ```bash
 # Clone this repository
-git clone https://github.com/Diegobr21/BoidsPythonTkinter.git
+git clone https://github.com/Diegobr21/BoidsPythonPygame.git
 cd BoidsPythonTkinter
 
 
