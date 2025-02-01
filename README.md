@@ -29,6 +29,9 @@ For more details, check out:
 
 - Real-time parameter tuning for speed, alignment, cohesion, and separation
 
+  ![Boids Simulation](boidrepulsion.gif)
+
+
 ## 🛠️ Installation
 
 To run the simulation, ensure you have Python 3.x installed. Then, clone the repository and run the script:
